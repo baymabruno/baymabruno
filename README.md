@@ -22,7 +22,7 @@
 - I'm currently working full-time at **Meta**.
 - Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/baymabruno/">LinkedIn</a>.
 
--->
+
 
 ### Technologies
 
@@ -121,3 +121,4 @@
     />
   </a>
 </p>
+-->
