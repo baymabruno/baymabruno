@@ -1,6 +1,6 @@
 ### Bayma Bruno Github Profile
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viny2999" alt="viny2999" /> </p>
-
+ <!--- 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
@@ -17,7 +17,7 @@
   </a>
 </p>
 
- <!--- ### Resume
+### Resume
 
 - I'm currently working full-time at **Meta**.
 - Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/baymabruno/">LinkedIn</a>.
